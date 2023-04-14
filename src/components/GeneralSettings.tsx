@@ -23,7 +23,7 @@ const GeneralSettings = (props: any) => {
     id: "",
     description: "",
     tag: "",
-    status: "Draft",
+//    new line
   });
 
   useEffect(() => {
